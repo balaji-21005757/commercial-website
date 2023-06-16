@@ -4,7 +4,7 @@ To create a commercial website using html and css
 # Algorithm
 1. Open visual studio code
 2. Create a html and css file
-3. Link the css to the html using <link> tag
+3. Link the css to the html using <link tag
 4. Create a commercial website based on the reference image given
 5. Run the files and display those outputs
 # Program
